@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="kdev.restoredelete.photos" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:networkSecurityConfig="@xml/network_security_config" android:requestLegacyExternalStorage="true" android:supportsRtl="true" android:theme="@style/AppTheme">
+        <activity android:name="kdev.imagerecovery.photorecovery.SplashScreenActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="kdev.imagerecovery.photorecovery.MainActivity" android:screenOrientation="portrait"/>
+        <activity android:name="kdev.imagerecovery.photorecovery.MainRestoredPics" android:screenOrientation="portrait"/>
+        <activity android:name="kdev.imagerecovery.photorecovery.DetailActivity" android:screenOrientation="portrait"/>
+        <activity android:name="kdev.imagerecovery.photorecovery.PrivacyActivity" android:screenOrientation="portrait"/>
+        <activity android:name="kdev.imagerecovery.photorecovery.StartActivity" android:screenOrientation="portrait"/>
+        <provider android:authorities="kdev.restoredelete.photos.provider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <meta-data android:name="applovin.sdk.key" android:value="wXXuoxhTgNT1kLWI1Brny3ZST_qF61DoOBGiXZOZ2FGHlxbO5di1x45_2SDoxHkq8MOPtXWfrNaVnSPx9q1VsP"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.common.privacy.ConsentDialogActivity" android:theme="@style/MoPubFullscreenTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.common.MoPubBrowser" android:theme="@style/MoPubFullscreenTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.MoPubActivity" android:theme="@style/MoPubFullscreenTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.MraidActivity" android:theme="@style/MoPubFullscreenTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.RewardedMraidActivity" android:theme="@style/MoPubFullscreenTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mopub.mobileads.MraidVideoPlayerActivity" android:theme="@style/MoPubFullscreenTheme"/>
+        <activity android:configChanges="orientation|screenSize" android:hardwareAccelerated="true" android:name="com.applovin.adview.AppLovinInterstitialActivity" android:screenOrientation="behind"/>
+        <activity android:configChanges="orientation|screenSize" android:name="com.applovin.adview.AppLovinConfirmationActivity"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <activity android:name="com.mzelzoghbi.zgallery.activities.ZGridActivity"/>
+        <activity android:name="com.mzelzoghbi.zgallery.activities.ZGalleryActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.applovin.sdk.AppLovinWebViewActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.applovin.mediation.MaxDebuggerActivity" android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.applovin.mediation.MaxDebuggerDetailActivity" android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme"/>
+        <service android:exported="false" android:name="com.applovin.impl.sdk.utils.AppKilledService" android:stopWithTask="false"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:hardwareAccelerated="true" android:name="com.facebook.ads.AudienceNetworkActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <provider android:authorities="kdev.restoredelete.photos.AudienceNetworkContentProvider" android:exported="false" android:name="com.facebook.ads.AudienceNetworkContentProvider"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="true" android:name="com.unity3d.services.ads.adunit.AdUnitActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="true" android:name="com.unity3d.services.ads.adunit.AdUnitTransparentActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="false" android:name="com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="false" android:name="com.unity3d.services.ads.adunit.AdUnitSoftwareActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        <meta-data android:name="com.android.dynamic.apk.fused.modules" android:value="base"/>
+        <meta-data android:name="com.android.vending.splits" android:resource="@xml/splits0"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="6"/>
+    </application>
+</manifest>

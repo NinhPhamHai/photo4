@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">Success</string>
+    <string name="alert_exite">Êtes-vous sûr de vouloir quitter?</string>
+    <string name="alert_no">Non</string>
+    <string name="alert_yes">Oui</string>
+    <string name="allow_permission">Veuillez autoriser l autorisation de l application</string>
+    <string name="app_name">recuperer photo supprimée</string>
+    <string name="files_restored">Les fichiers sont restaurés</string>
+    <string name="mn_more_apps">Plus d applications gratuites</string>
+    <string name="mn_rate">Noter cette application</string>
+    <string name="mn_share">Partager</string>
+    <string name="msg_ratng">Nous apprécions votre évaluation pour cette app</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">Ouvrir</string>
+    <string name="photo_restoring">Scanning...</string>
+    <string name="photos_scan_rslt">Résultat du Recherche</string>
+    <string name="please_re_seleted_photo">Veuillez re sélectionner les images.</string>
+    <string name="please_seleted_photo">Veuillez sélectionner les images.</string>
+    <string name="privacy_agree">Acceptez</string>
+    <string name="privacy_txt">En utilisant cette application, vous acceptez la politique de confidentialité</string>
+    <string name="rat_awesome">Effarant. Je l aime</string>
+    <string name="rat_good">Bien</string>
+    <string name="rat_great">Génial</string>
+    <string name="rat_need_improve">Besoin d amélioration</string>
+    <string name="rat_very_bad">Très mal</string>
+    <string name="recovred_photo">Photos restaurées</string>
+    <string name="repaire">restaurer image</string>
+    <string name="rest_found">Fichiers trouvés</string>
+    <string name="slogan">Recuperer Photo Supprimée</string>
+    <string name="start_scan">Lancer la Recherche</string>
+    <string name="txt_cancet">Annuler</string>
+    <string name="txt_delete">Supprimer</string>
+    <string name="txt_delete_photo">La photo sélectionnée sera supprimée</string>
+    <string name="txt_dl_single">Supprimer cette photo</string>
+    <string name="txt_no_rate">Non, merci</string>
+    <string name="txt_thanks">Merci pour votre commentaires</string>
+    <string name="txt_yes_rate">Oui</string>
+</resources>

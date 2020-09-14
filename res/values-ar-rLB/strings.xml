@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">نجاح</string>
+    <string name="alert_exite">هل تريد الخروج؟</string>
+    <string name="alert_no">لا</string>
+    <string name="alert_yes">نعم</string>
+    <string name="allow_permission">يرجى قبول إذن التطبيق</string>
+    <string name="app_name">برنامج استرجاع الصور</string>
+    <string name="files_restored">تمت استعادة الصور بنجاح</string>
+    <string name="mn_more_apps">تطبيقات مجانية</string>
+    <string name="mn_rate">قيم هذاالتطبيق</string>
+    <string name="mn_share">مشاركةالتطبيق</string>
+    <string name="msg_ratng">المرجو تقيم هذا التطبيق</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">فتح</string>
+    <string name="photo_restoring">فحص ...</string>
+    <string name="photos_scan_rslt">نتائج البحث</string>
+    <string name="please_re_seleted_photo">الرجاء إعادة تحديد الصور</string>
+    <string name="please_seleted_photo">الرجاء تحديد الصور.</string>
+    <string name="privacy_agree">أوافق</string>
+    <string name="privacy_txt">باستخدام هذا التطبيق ، فانك توافق علي سياسة الخصوصية</string>
+    <string name="rat_awesome">مدهش</string>
+    <string name="rat_good">جيده</string>
+    <string name="rat_great">رائع</string>
+    <string name="rat_need_improve">يحتاج إلى بعض التحسين</string>
+    <string name="rat_very_bad">سيء جدًا</string>
+    <string name="recovred_photo">الصور المستعادة</string>
+    <string name="repaire">استرجاع الصور</string>
+    <string name="rest_found">ملفات وجدت</string>
+    <string name="slogan">استرجاع الصور المحذوفه</string>
+    <string name="start_scan">ابدأ البحث</string>
+    <string name="txt_cancet">إلغاء</string>
+    <string name="txt_delete">حذف</string>
+    <string name="txt_delete_photo">سيتم حذف الصورة المحددة</string>
+    <string name="txt_dl_single">حذف هذه الصورة</string>
+    <string name="txt_no_rate">لا، شكرا</string>
+    <string name="txt_thanks">شكرا لملاحظاتك</string>
+    <string name="txt_yes_rate">نعم</string>
+</resources>

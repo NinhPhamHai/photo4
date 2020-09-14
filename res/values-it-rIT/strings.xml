@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">Success</string>
+    <string name="alert_exite">Sei sicuro di voler uscire?</string>
+    <string name="alert_no">No</string>
+    <string name="alert_yes">Sì</string>
+    <string name="allow_permission">Autorizza perm autorizzazione app</string>
+    <string name="app_name">Recuperare foto cancellate</string>
+    <string name="files_restored">I file vengono ripristinati</string>
+    <string name="mn_more_apps">Altre app gratuite</string>
+    <string name="mn_rate">Valuta questa app</string>
+    <string name="mn_share">Condividi</string>
+    <string name="msg_ratng">Si Prega di Valutare questa App</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">Apri</string>
+    <string name="photo_restoring">Scanning...</string>
+    <string name="photos_scan_rslt">Risultato scansione foto</string>
+    <string name="please_re_seleted_photo">Si prega di re selezionare le immagini.</string>
+    <string name="please_seleted_photo">Si prega di selezionare le immagini.</string>
+    <string name="privacy_agree">D accordo</string>
+    <string name="privacy_txt">Utilizzando questa applicazione, l utente accetta la privacy policy</string>
+    <string name="rat_awesome">Fantastico. Mi piace un sacco</string>
+    <string name="rat_good">Buono</string>
+    <string name="rat_great">Fantastico</string>
+    <string name="rat_need_improve">Hai bisogno di qualche miglioramento</string>
+    <string name="rat_very_bad">Molto male</string>
+    <string name="recovred_photo">Foto ripristinata</string>
+    <string name="repaire">recover</string>
+    <string name="rest_found">File trovati</string>
+    <string name="slogan">Recuperare foto cancellate</string>
+    <string name="start_scan">Inizia la ricerca</string>
+    <string name="txt_cancet">Annulla</string>
+    <string name="txt_delete">Elimina</string>
+    <string name="txt_delete_photo">La foto selezionata verrà eliminata</string>
+    <string name="txt_dl_single">Elimina questa foto</string>
+    <string name="txt_no_rate">No</string>
+    <string name="txt_thanks">Grazie per aver valutato questa applicazione</string>
+    <string name="txt_yes_rate">Sì</string>
+</resources>

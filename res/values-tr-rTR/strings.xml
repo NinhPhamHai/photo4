@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">başarı</string>
+    <string name="alert_exite">Çıkmak istediğine emin misin?</string>
+    <string name="alert_no">hayır</string>
+    <string name="alert_yes">Evet</string>
+    <string name="allow_permission">Lütfen Uygulama İzni Verin</string>
+    <string name="app_name">Silinen fotoğrafları kurtarma</string>
+    <string name="files_restored">Dosyalar başarıyla geri yüklendi</string>
+    <string name="mn_more_apps">Daha fazla uygulama</string>
+    <string name="mn_rate">Bu uygulamayı oyla</string>
+    <string name="mn_share">Uygulamayı Paylaş</string>
+    <string name="msg_ratng">Lütfen bu uygulamayı değerlendirin</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">Açık</string>
+    <string name="photo_restoring">Tarama...</string>
+    <string name="photos_scan_rslt">Fotoğraf arama Sonucu</string>
+    <string name="please_re_seleted_photo">Lütfen resimleri tekrar seçiniz.</string>
+    <string name="please_seleted_photo">Lütfen resimleri seçiniz.</string>
+    <string name="privacy_agree">Kabul</string>
+    <string name="privacy_txt">Bu uygulamayı kullanarak, Gizlilik Politikası nı kabul etmiş olursunuz.</string>
+    <string name="rat_awesome">Harika. Bayıldım</string>
+    <string name="rat_good">Iyi</string>
+    <string name="rat_great">Büyük</string>
+    <string name="rat_need_improve">Biraz iyileştirme lazım</string>
+    <string name="rat_very_bad">Çok kötü</string>
+    <string name="recovred_photo">Geri yüklenen Fotoğraflar</string>
+    <string name="repaire">kurtarmak</string>
+    <string name="rest_found">Dosyalar bulundu</string>
+    <string name="slogan">silinmiş fotograf geri getirme</string>
+    <string name="start_scan">Aramaya başla</string>
+    <string name="txt_cancet">İptal</string>
+    <string name="txt_delete">silmek</string>
+    <string name="txt_delete_photo">Seçilen fotoğraf Silinecek</string>
+    <string name="txt_dl_single">Bu fotoğrafı sil</string>
+    <string name="txt_no_rate">Hayır, teşekkürler</string>
+    <string name="txt_thanks">Geribildirim için teşekkür ederiz</string>
+    <string name="txt_yes_rate">Evet</string>
+</resources>

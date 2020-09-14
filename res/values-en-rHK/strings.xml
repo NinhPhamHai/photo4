@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">Success</string>
+    <string name="alert_exite">Are you sure you want to exit?</string>
+    <string name="alert_no">No</string>
+    <string name="alert_yes">Yes</string>
+    <string name="allow_permission">Please Allow App Permission</string>
+    <string name="app_name">Restore Image</string>
+    <string name="files_restored">Files are restored successfully</string>
+    <string name="mn_more_apps">More Free Apps</string>
+    <string name="mn_rate">Rate this App</string>
+    <string name="mn_share">Share</string>
+    <string name="msg_ratng">Please take a moment to Rate this App</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">Open</string>
+    <string name="photo_restoring">Scanning...</string>
+    <string name="photos_scan_rslt">Photos Scan Result</string>
+    <string name="please_re_seleted_photo">Please re select the pictures.</string>
+    <string name="please_seleted_photo">Please select the pictures.</string>
+    <string name="privacy_agree">AGREE</string>
+    <string name="privacy_txt">By using this application, you agree to the Privacy Policy</string>
+    <string name="rat_awesome">Awesome. I love it</string>
+    <string name="rat_good">Good</string>
+    <string name="rat_great">Great</string>
+    <string name="rat_need_improve">Need some improvement</string>
+    <string name="rat_very_bad">Very bad</string>
+    <string name="recovred_photo">Photos Restored</string>
+    <string name="repaire">recover</string>
+    <string name="rest_found">Files Found</string>
+    <string name="slogan">Deleted Photo Recovery</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="txt_cancet">Cancel</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_delete_photo">Selected photo will be Deleted</string>
+    <string name="txt_dl_single">Delete this Photo</string>
+    <string name="txt_no_rate">No,thanks</string>
+    <string name="txt_thanks">Thank you for your feedback</string>
+    <string name="txt_yes_rate">Rate</string>
+</resources>

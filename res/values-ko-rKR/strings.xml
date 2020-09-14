@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">복구 완료</string>
+    <string name="alert_exite">종료 하시겠습니까?</string>
+    <string name="alert_no">아니</string>
+    <string name="alert_yes">예</string>
+    <string name="allow_permission">앱 허가를 허용하십시오</string>
+    <string name="app_name">삭제 된 사진 복구</string>
+    <string name="files_restored">파일이 성공적으로 복원되었습니다.</string>
+    <string name="mn_more_apps">더 많은 무료 앱</string>
+    <string name="mn_rate">이 앱을 평가 해주세요</string>
+    <string name="mn_share">이 앱 공유</string>
+    <string name="msg_ratng">이 앱을 평가 해주세요</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">열다</string>
+    <string name="photo_restoring">소중한 사진을 복구 하는 중입니다.</string>
+    <string name="photos_scan_rslt">사진 스캔 결과</string>
+    <string name="please_re_seleted_photo">사진을 다시 선택해 주세요</string>
+    <string name="please_seleted_photo">사진을 선택해 주세요.</string>
+    <string name="privacy_agree">동의하다</string>
+    <string name="privacy_txt">이 응용 프로그램을 사용함으로써 귀하는 개인 정보 보호 정책에 동의합니다.</string>
+    <string name="rat_awesome">굉장한. 마음에 듭니다</string>
+    <string name="rat_good">좋은</string>
+    <string name="rat_great">좋은</string>
+    <string name="rat_need_improve">몇 가지 개선이 필요</string>
+    <string name="rat_very_bad">아주 나빠요</string>
+    <string name="recovred_photo">복원 된 사진</string>
+    <string name="repaire">복구</string>
+    <string name="rest_found">발견 된 파일</string>
+    <string name="slogan">삭제 된 사진 복구</string>
+    <string name="start_scan">스캔 시작</string>
+    <string name="txt_cancet">취소</string>
+    <string name="txt_delete">지우다</string>
+    <string name="txt_delete_photo">선택한 사진이 삭제됩니다</string>
+    <string name="txt_dl_single">이 사진 삭제</string>
+    <string name="txt_no_rate">아니</string>
+    <string name="txt_thanks">참여해주셔서 감사합니다.</string>
+    <string name="txt_yes_rate">예</string>
+</resources>

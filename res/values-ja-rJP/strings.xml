@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">Success</string>
+    <string name="alert_exite">終了しますよろしいですか。</string>
+    <string name="alert_no">no</string>
+    <string name="alert_yes">ok</string>
+    <string name="allow_permission">アプリケーションのアクセス権を許可してください。</string>
+    <string name="app_name">画像 復元</string>
+    <string name="files_restored">ファイルが正常に復元されます。</string>
+    <string name="mn_more_apps">さらに無料アプリ</string>
+    <string name="mn_rate">このアプリを評価します。</string>
+    <string name="mn_share">このアプリを共有します。</string>
+    <string name="msg_ratng">このアプリを評価してください。</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">オープン</string>
+    <string name="photo_restoring">スキャン...</string>
+    <string name="photos_scan_rslt">写真スキャン結果</string>
+    <string name="please_re_seleted_photo">日時は、写真を選択してください。</string>
+    <string name="please_seleted_photo">写真を選択してください。</string>
+    <string name="privacy_agree">同意する</string>
+    <string name="privacy_txt">このアプリケーションを使用することにより、プライバシーポリシーに同意したことになります</string>
+    <string name="rat_awesome">すごい。それが大好きです</string>
+    <string name="rat_good">よし</string>
+    <string name="rat_great">すごい</string>
+    <string name="rat_need_improve">いくつかの改善が必要</string>
+    <string name="rat_very_bad">最悪ですね</string>
+    <string name="recovred_photo">写真復元</string>
+    <string name="repaire">android 写真 復元</string>
+    <string name="rest_found">ファイルが見つかりました</string>
+    <string name="slogan">写真復元</string>
+    <string name="start_scan">スキャンを開始</string>
+    <string name="txt_cancet">キャンセル</string>
+    <string name="txt_delete">削除</string>
+    <string name="txt_delete_photo">選択した写真が削除されます。</string>
+    <string name="txt_dl_single">このフォトを削除します。</string>
+    <string name="txt_no_rate">遠慮します</string>
+    <string name="txt_thanks">ご意見ありがとうございます</string>
+    <string name="txt_yes_rate">うん</string>
+</resources>

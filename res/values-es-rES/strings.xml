@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">Éxito</string>
+    <string name="alert_exite">Seguro que quieres salir?</string>
+    <string name="alert_no">No</string>
+    <string name="alert_yes">Sí</string>
+    <string name="allow_permission">Permita permiso de la aplicación</string>
+    <string name="app_name">Recuperar Fotos Borradas</string>
+    <string name="files_restored">Los archivos se restauraron con éxito</string>
+    <string name="mn_more_apps">Más aplicaciones gratis</string>
+    <string name="mn_rate">Califica aplicación</string>
+    <string name="mn_share">Compartir</string>
+    <string name="msg_ratng">Califica esta aplicación</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">Abierto</string>
+    <string name="photo_restoring">Exploración...</string>
+    <string name="photos_scan_rslt">Fotos Resultado de escaneo</string>
+    <string name="please_re_seleted_photo">Por favor, vuelva a seleccionar las imágenes.</string>
+    <string name="please_seleted_photo">Por favor seleccione las fotos.</string>
+    <string name="privacy_agree">Acuerdo</string>
+    <string name="privacy_txt">Al utilizar esta aplicación, usted acepta la política de privacidad</string>
+    <string name="rat_awesome">Impresionante. Me encanta</string>
+    <string name="rat_good">Bien</string>
+    <string name="rat_great">Gran</string>
+    <string name="rat_need_improve">Necesita alguna mejora</string>
+    <string name="rat_very_bad">Muy malo</string>
+    <string name="recovred_photo">Fotos restauradas</string>
+    <string name="repaire">repaire</string>
+    <string name="rest_found">Archivos Found</string>
+    <string name="slogan">recuperar fotos borradas del movil</string>
+    <string name="start_scan">Iniciar escaneo</string>
+    <string name="txt_cancet">Cancelar</string>
+    <string name="txt_delete">Borrar</string>
+    <string name="txt_delete_photo">La foto seleccionada será eliminada</string>
+    <string name="txt_dl_single">Borra esta foto</string>
+    <string name="txt_no_rate">No, gracias</string>
+    <string name="txt_thanks">Gracias por enviarnos tu forma de sobretuhotel</string>
+    <string name="txt_yes_rate">Calificar</string>
+</resources>

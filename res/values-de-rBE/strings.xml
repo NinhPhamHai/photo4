@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Success">Erfolg</string>
+    <string name="alert_exite">Möchten Sie den Vorgang wirklich beenden?</string>
+    <string name="alert_no">Nein</string>
+    <string name="alert_yes">Ja</string>
+    <string name="allow_permission">Please allow app permission</string>
+    <string name="app_name">Restore Image</string>
+    <string name="files_restored">Dateien werden erfolgreich wiederhergestellt</string>
+    <string name="mn_more_apps">Weitere kostenlose Apps</string>
+    <string name="mn_rate">Bewerten Sie diese App</string>
+    <string name="mn_share">Teilen</string>
+    <string name="msg_ratng">Bitte bewerten Sie diese APP</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="open_restored">Öffnen</string>
+    <string name="photo_restoring">Scannen...</string>
+    <string name="photos_scan_rslt">Fotos Scan-Ergebnis</string>
+    <string name="please_re_seleted_photo">Bitte wählen Sie die Bilder.</string>
+    <string name="please_seleted_photo">Bitte wählen Sie die Bilder aus.</string>
+    <string name="privacy_agree">ZUSTIMMEN</string>
+    <string name="privacy_txt">Mit der Verwendung dieser Anwendung stimmen Sie der Datenschutzrichtlinie zu</string>
+    <string name="rat_awesome">Genial. ich liebe es</string>
+    <string name="rat_good">Gut</string>
+    <string name="rat_great">Großartig</string>
+    <string name="rat_need_improve">Benötigen Sie eine Verbesserung</string>
+    <string name="rat_very_bad">Sehr schlecht</string>
+    <string name="recovred_photo">Fotos wiederhergestellt</string>
+    <string name="repaire">recover</string>
+    <string name="rest_found">Gefundene Dateien</string>
+    <string name="slogan">Deleted Photo Recovery</string>
+    <string name="start_scan">Suche starten</string>
+    <string name="txt_cancet">Abbrechen</string>
+    <string name="txt_delete">Löschen</string>
+    <string name="txt_delete_photo">Das ausgewählte Foto wird gelöscht</string>
+    <string name="txt_dl_single">Dieses Foto löschen</string>
+    <string name="txt_no_rate">Nein, danke</string>
+    <string name="txt_thanks">Danke für Ihre Rückmeldung</string>
+    <string name="txt_yes_rate">Ja</string>
+</resources>
